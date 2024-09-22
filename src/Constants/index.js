@@ -152,7 +152,7 @@ export const socialLinks = [
   {
     name: "LinkedIn",
     iconUrl: linkedin,
-    link: "www.linkedin.com/in/dharth-tiwari",
+    link: "https://www.linkedin.com/in/dharth-tiwari/",
   },
 ];
 
